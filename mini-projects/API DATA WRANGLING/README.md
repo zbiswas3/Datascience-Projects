@@ -1,0 +1,1 @@
+This folder contains the springboard mini project on Usage of API in DATA Wrangling. This work may be copyrighted by springboard; it is however open for improvement. In this project, Quandl API and request API is used to explore AFX_X data set from Quandl. 
